@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Guardian Angel</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Guardian Angel</h1>
+        <div id="notes-section">
+            <button id="emergency-button">📌 Open Emergency Features</button>
+        </div>
+        <div id="emergency-section" class="hidden">
+            <button id="sos-button">Activate SOS</button>
+            <button id="share-location-button">Share Location</button>
+            <button id="fake-call-button">Activate Fake Call</button>
+            <button id="record-video-button">Record Video</button>
+            <button id="take-photo-button">Take Photo</button>
+            <button id="voice-recognition-button">Start Voice Recognition</button>
+        </div>
+    </div>
+
+    <div id="call-screen" class="hidden call-screen">
+        <h2>Incoming call from Mom</h2>
+        <button id="attend-call-button">Attend</button>
+        <button id="cut-call-button">Cut</button>
+    </div>
+
+    <div id="ongoing-call-screen" class="hidden call-screen">
+        <h2>Call with Mom</h2>
+        <div id="call-timer">00:00</div>
+        <button id="end-call-button">End Call</button>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
