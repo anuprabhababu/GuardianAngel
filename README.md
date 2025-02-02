@@ -18,7 +18,7 @@ Just click on the project llnk to view it.
 Screen shots:
 ![image](https://github.com/user-attachments/assets/c79b1ed0-4c4b-416b-ae07-6abc6e5ffe2c)---The first page of the app
 
- ![image](https://github.com/user-attachments/assets/ef7d8534-7fbe-42eb-890c-df0438455fad) ---On clcking open emergency featurs,this page opens
+ ![image](https://github.com/user-attachments/assets/ef7d8534-7fbe-42eb-890c-df0438455fad) ---On clicking open emergency features,this page opens
  
 ![image](https://github.com/user-attachments/assets/013d277a-0413-4a0c-acd5-49969f73142d) ----on clicking activate fake call, this page opens
 
