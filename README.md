@@ -1,5 +1,6 @@
 Solo
-Name:Anuprabha Babu
+
+Name:Anuprabha Babu , Mar Athanasius College of Engineering
 
 Project link: https://guardian-angel-2vxe.vercel.app/
 
@@ -27,6 +28,6 @@ Screen shots:
 ![image](https://github.com/user-attachments/assets/67ba89b3-9785-4844-a0f6-2b212e71ca8f) --- on cicking share location , this page opens
 
 
+How it works?
 
-On clicking open emergency featutes a list of functions appear. Each option works as its name suggest.Actovate sos activates an sos alert and allows the user to off them when necessary. Share location allows to share location and shownaims to know thw students most commom shop and  .The activate fake call
-actually is in our class.
+On clicking "open emergency featutes" a list of functions appear. Each option works as its name suggest.Activate sos activates an sos alert and allows the user to off them when necessary. Share location allows to share location to contacts.Activte fake call creates a fake call which is an excuse to move from the place. The user can record video or photo and send it to someone.This can be treated as proof("This action is not yet implemented")
